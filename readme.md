@@ -6,6 +6,7 @@ SONA is your local shopping social network.  Much like Facebook or Instagram con
 
 ## GETTING STARTED
 ---
+Click to start >> [SONA](https://sona-shopping.herokuapp.com/)
 
 ## SCREENSHOTS
 ---
